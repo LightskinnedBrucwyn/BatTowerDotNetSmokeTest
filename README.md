@@ -1,6 +1,10 @@
-# BatTowerDotNetSmokeTest
+# BatTower .NET 8 Smoke Test
 
-This is the first Windows-side .NET 8 smoke test project for BatTower.
+This is the first public Windows-side .NET 8 test project for BatTower.
+
+## Purpose
+
+Confirm that BatTower-Windows can create, build, run, track, and publish a basic C# console application.
 
 ## Confirmed
 
@@ -8,9 +12,9 @@ This is the first Windows-side .NET 8 smoke test project for BatTower.
 - Visual Studio 2022 Community
 - .NET 8 Software Development Kit
 - Git for Windows
-- GitHub repository
-- Console application runs successfully
+- GitHub public repository
+- Console application output: Hello, World!
 
-## Test Output
+## Project Path
 
-Hello, World!
+C:\Batcave\dev\BatTowerDotNetSmokeTest
