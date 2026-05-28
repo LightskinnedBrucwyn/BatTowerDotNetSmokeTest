@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37314.3 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BatTowerDotNetSmokeTest", "BatTowerDotNetSmokeTest.csproj", "{72AFC67F-9DD4-F3A9-2553-4B785033956B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72AFC67F-9DD4-F3A9-2553-4B785033956B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72AFC67F-9DD4-F3A9-2553-4B785033956B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72AFC67F-9DD4-F3A9-2553-4B785033956B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72AFC67F-9DD4-F3A9-2553-4B785033956B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10F43C25-6928-4974-899B-D85A47A4B179}
+	EndGlobalSection
+EndGlobal
